@@ -1,0 +1,13 @@
+.Information__Page {
+    display: flex;
+    flex-direction: column;
+    background-color: #bfccb2;
+    height: 100vh;
+}
+.Information__Main {
+    color: rgba(0, 56, 169, 0.93);
+    display: flex;
+    font-size: 40px;
+    justify-content: center;
+    align-items: center;
+}

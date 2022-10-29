@@ -1,0 +1,13 @@
+.Contact__Page {
+    display: flex;
+    flex-direction: column;
+    background-color: rgba(136, 136, 136, 0.38);
+    height: 100vh;
+}
+.Contact__Main {
+    color: rgb(128, 1, 1);
+    display: flex;
+    font-size: 40px;
+    justify-content: center;
+    align-items: center;
+}
